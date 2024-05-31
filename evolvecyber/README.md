@@ -6,3 +6,7 @@ source workspace/bin/activate
 chmod +x ./test.py  
 touch test.py
 
+
+# To push into github
+git config --global user.name khikmatillo1 
+git config --global user.email twaravancargo@gmail.com
