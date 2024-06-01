@@ -1,0 +1,26 @@
+{
+    "class": "python",
+    "school": "evolvecyber",
+    "office": 10400,
+    "street": "higgins rd",
+    "suite": 400,
+    "city": "Rosemont",
+    "state": "IL",
+    "zip": 60106,
+    "status": "open",    
+    "is_now_open": true,
+    "instructors": [ 
+        { 
+        "instructor1": {
+            "name": "islam",
+            "lastname": "kambarov"
+            }
+        },
+        { 
+        "instructor2": {
+            "name": "farrukh",
+            "lastname": "sadykov"
+            }
+        }  
+    ]
+}
